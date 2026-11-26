@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Digesta TEI: A CTS-Addressable TEI P5 Dataset for Justinian's Digest"
+abstract: >-
+  A TEI P5 / EpiDoc XML dataset of all 50 books of Justinian's Digest, encoding 432 titles,
+  9,139 juristic fragments and 21,077 sections, each citable by xml:id and CTS URN, with the
+  inscriptio of every fragment and controlled jurist-attribution keys. Produced by the Digital
+  Digesta project at Nagoya University from the Mommsen–Krüger editio maior (1868–1870).
+authors:
+  - family-names: Sato
+    given-names: Rikiya
+    affiliation: "Nagoya University, Graduate School of Humanities"
+  - family-names: Shimasaki
+    given-names: Ataru
+    affiliation: "Nagoya University"
+  - family-names: Suzuki
+    given-names: Yuko
+    affiliation: "Nagoya University"
+  - family-names: Fujimura
+    given-names: Sorana
+    affiliation: "Nagoya University"
+  - family-names: Manabe
+    given-names: Satsuki
+    affiliation: "Nagoya University"
+  - family-names: Suzuki
+    given-names: Yuki
+    affiliation: "Nagoya University, Graduate School of Humanities"
+  - family-names: Iwata
+    given-names: Naoya
+    affiliation: "Nagoya University, Center for Digital Humanities and Social Sciences"
+  - family-names: Sano
+    given-names: Tomoya
+    affiliation: "Meiji University, School of Law"
+  - family-names: Kawamoto
+    given-names: Yukiko
+    affiliation: "Nagoya University, Center for Digital Humanities and Social Sciences and Graduate School of Humanities"
+version: 1.0.0
+license: CC-BY-4.0
+repository-code: "https://github.com/digital-digesta/digesta-tei"
+keywords:
+  - Justinian's Digest
+  - Roman law
+  - TEI P5
+  - EpiDoc
+  - CTS
+  - Latin corpus
+  - scholarly editing

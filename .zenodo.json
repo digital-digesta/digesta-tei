@@ -1,0 +1,70 @@
+{
+  "title": "Digesta TEI: A CTS-Addressable TEI P5 Dataset for Justinian's Digest",
+  "version": "1.0.0",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "language": "lat",
+  "description": "<p>Digesta TEI encodes all 50 books of Justinian’s <em>Digest</em> in TEI P5 / EpiDoc XML. Its 432 titles, 9,139 juristic fragments and 21,077 sections have stable XML identifiers and CTS-compatible references (work identifier: urn:cts:latinLit:phi2806.phi002.humanitext-lat1). Each fragment records the attributed jurist and source work in its <em>inscriptio</em>. The XML preserves the written forms of the names alongside 39 controlled attribution keys, and marks 346 Greek spans, 21 textual gaps and 11 editorial supplements.</p><p>The Digital Digesta project at Nagoya University digitised the four-volume Keip reprint (Goldbach, 2001) of the two-volume Mommsen–Krüger <em>editio maior</em> (Berlin, 1868–1870). The team checked the Humanitext OCR output against the printed text. The package includes the correction history, the attribution-key table, identifier migration tables, and a section-level crosswalk to Marton Ribary’s <em>digest.db</em>. The crosswalk aligns 21,033 sections by reference and records a separate comparison of opening words. Validation materials and SHA-256 checksums accompany the files.</p><p>Funded by the Future Society Creation Project (International Academia Formation Seed Fund) of the Institutes of Innovation for Future Society, Nagoya University (principal investigator: Yukiko Kawamoto).</p>",
+  "creators": [
+    {
+      "name": "Sato, Rikiya",
+      "affiliation": "Nagoya University"
+    },
+    {
+      "name": "Shimasaki, Ataru",
+      "affiliation": "Nagoya University"
+    },
+    {
+      "name": "Suzuki, Yuko",
+      "affiliation": "Nagoya University"
+    },
+    {
+      "name": "Fujimura, Sorana",
+      "affiliation": "Nagoya University"
+    },
+    {
+      "name": "Manabe, Satsuki",
+      "affiliation": "Nagoya University"
+    },
+    {
+      "name": "Suzuki, Yuki",
+      "affiliation": "Nagoya University"
+    },
+    {
+      "name": "Iwata, Naoya",
+      "affiliation": "Nagoya University"
+    },
+    {
+      "name": "Sano, Tomoya",
+      "affiliation": "Meiji University"
+    },
+    {
+      "name": "Kawamoto, Yukiko",
+      "affiliation": "Nagoya University"
+    }
+  ],
+  "keywords": [
+    "Justinian's Digest",
+    "Roman law",
+    "TEI P5",
+    "EpiDoc",
+    "CTS",
+    "Latin corpus",
+    "scholarly editing",
+    "Digital Digesta"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.6084/m9.figshare.12333290",
+      "relation": "references",
+      "resource_type": "dataset",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "https://github.com/digital-digesta/digesta-tei",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

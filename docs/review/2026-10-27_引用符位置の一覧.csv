@@ -1,0 +1,73 @@
+from_xml_id,to_xml_id,action,reason,from_tail,to_head
+Dig.2.2.1.pr,Dig.2.2.1.1,適用,次の section に閉じ引用符あり（' 1 個）,"dem ius sibi dici, quod ipse aliis dixit uel dici effecit? '","Qui magistratum potestatemue habebit, si quid in aliquem nou"
+Dig.2.4.8.pr,Dig.2.4.8.1,適用,次の section に閉じ引用符あり（' 3 個）,entem ne quidem dum est in adoptiua familia in ius uocari. ',"Patronum', inquit, 'patronam'. patroni hic accipiendi sunt, "
+Dig.5.3.20.10,Dig.5.3.20.11,適用,次の section に閉じ引用符あり（' 3 個）,"nsulto, sed et in peculio castrensi uel alia uniuersitate. '",Petitam autem hereditatem' et cetera: id est ex quo quis sci
+Dig.5.3.20.14,Dig.5.3.20.15,適用,次の section に閉じ引用符あり（' 3 個）,"ate non attingat, negat eum omnino in usuras conueniendum. '","Redactae', inquit, 'pecuniae ex pretio rerum uenditarum.' re"
+Dig.5.3.25.6,Dig.5.3.25.7,適用,次の section に閉じ引用符あり（' 4 個）,"hunc esse praedonem qui dolo caret, quamuis in iure erret. '","Si ante litem contestatam', inquit, 'fecerit': hoc ideo adie"
+Dig.5.3.25.7,Dig.5.3.25.8,適用,次の section に閉じ引用符あり（' 3 個）,tam doli nomine tenebitur: hic est enim dolus praeteritus. ',"Perinde', inquit, 'condemnandos quasi possiderent': merito: "
+Dig.9.4.21.2,Dig.9.4.21.3,保留,次の section は引用ではなく、この ' は当該 section の閉じ引用符と見られる,", quo minus esset, uel iudicium dabo sine noxae deditione. '","'In potestate' sic accipere debemus, ut facultatem et potest"
+Dig.11.5.1.3,Dig.11.5.1.4,適用,次の section に閉じ引用符あり（' 3 個）,"pliciter ait 'si quid subtractum erit, iudicium non dabo.' '","In eum', inquit, 'qui aleae ludendae causa uim intulerit, ut"
+Dig.13.5.16.2,Dig.13.5.16.3,保留,次の section は引用ではなく、この ' は当該 section の閉じ引用符と見られる,"per actorem stetit, quo minus fieret quod constitutum est. '","Ergo si non stetit per actorem, tenet actio, etiamsi per rer"
+Dig.17.1.59.4,Dig.17.1.59.5,適用,次の section に閉じ引用符あり（' 1 個）,"is nomine non teneatur, proficere eam rem ad liberationem. '","Ille illi salutem. Mando tibi, ut Blaesio Seuero adfini meo "
+Dig.27.6.1.1,Dig.27.6.1.2,適用,次の section に閉じ引用符あり（' 3 個）,Uerba autem edicti haec sunt. ',Quod eo auctore' inquit 'qui tutor non fuerit'. uerbis edict
+Dig.27.9.1.1,Dig.27.9.1.2,適用,次の section に閉じ引用符あり（' 1 個）,nte consulibus idibus Iuniis et sunt uerba eius huiusmodi: ',"Praeterea, patres conscripti, interdicam tutoribus et curato"
+Dig.28.5.60.1,Dig.28.5.60.2,適用,次の section に閉じ引用符あり（' 1 個）,"forte quarta, ex qua socius erat, heredem institutum esse? '",Titius heres esto: Seius et Maeuius heredes sunto'. uerum es
+Dig.28.5.60.4,Dig.28.5.60.5,適用,次の section に閉じ引用符あり（' 1 個）,exsistit. idem et in legatis et in bonorum possessionibus. ',Titius ex semisse heres esto: Seius ex quadrante heres esto:
+Dig.28.6.48.pr,Dig.28.6.48.1,適用,次の section に閉じ引用符あり（' 5 個）,uto locus sit an non. et uerius est substituto locum esse. ',Titius heres esto. Stichum Maeuio do lego: Stichus heres est
+Dig.29.5.1.26,Dig.29.5.1.27,適用,次の section に閉じ引用符あり（' 3 個）,", sed in eadem regione, non aliter, nisi conscii fuissent. '","Eodem' autem 'tecto' qualiter accipiatur, uideamus, utrum in"
+Dig.40.7.40.pr,Dig.40.7.40.1,適用,次の section に閉じ引用符あり（' 1 個）," et reliqua et omnia, quae per eum abessent, restituisset. '",Pamphilus liber esto peculio suo heredibus uere dato'. quaes
+Dig.43.21.1.7,Dig.43.21.1.8,適用,次の section に閉じ引用符あり（' 3 個）,"iget: plerumque enim ut refectione, et purgatione indiget. '","Aquae', inquit, 'ducendae causa'. merito hoc additur, ut ei "
+Dig.45.1.56.pr,Dig.45.1.56.1,適用,次の section に閉じ引用符あり（' 1 個）,liud intellegitur quam una decem communiter duobus legare. ',Te et Titium heredem tuum decem daturum spondes?' Titii pers
+Dig.50.7.9.pr,Dig.50.7.9.1,適用,次の section に閉じ引用符あり（' 1 個）,"endum publicum negotium, etiamsi de eadem causa litigetur. '",Imperatores Antoninus et Seuerus Augusti Germano Siluano. Le
+Dig.50.16.2.pr,Dig.50.16.2.1,適用,次の section に閉じ引用符あり（' 1 個）,"autem continentibus aedificiis finitur, quod latius patet. '","Cuiusque diei maior pars' est horarum septem primarum diei, "
+Dig.50.16.5.pr,Dig.50.16.5.1,適用,次の section に閉じ引用符あり（' 1 個）,"iae significatio ad ea referatur, quae in patrimonio sunt. '",Opere locato conducto': his uerbis Labeo significari ait id 
+Dig.50.16.8.pr,Dig.50.16.8.1,適用,次の section に閉じ引用符あり（' 1 個）,m 'oportebit' tam praesens quam futurum tempus significat. ',Actionis' uerbo non continetur exceptio.
+Dig.50.16.13.1,Dig.50.16.13.2,適用,次の section に閉じ引用符あり（' 3 個）,"e, quoniam plerumque plus est in manus pretio, quam in re. '","Desinere' autem 'abesse' res tunc uidetur, cum sic redit in "
+Dig.50.16.14.pr,Dig.50.16.14.1,適用,次の section に閉じ引用符あり（' 1 個）,"se scierit, quia uidetur res ei abesse, cui pretium abest. '","Rem amisisse' uidetur, qui aduersus nullum eius persequendae"
+Dig.50.16.17.pr,Dig.50.16.17.1,適用,次の section に閉じ引用符あり（' 1 個）,peculia seruorum ciuitatium procul dubio publica habentur. ',"Publica' uectigalia intellegere debemus, ex quibus uectigal "
+Dig.50.16.27.pr,Dig.50.16.27.1,適用,次の section に閉じ引用符あり（' 3 個）,"Ager' est locus, qui sine uilla est. '","Stipendium' a stipe appellatum est, quod per stipes, id est "
+Dig.50.16.30.pr,Dig.50.16.30.1,適用,次の section に閉じ引用符あり（' 2 個）,quae succisa rursus ex stirpibus aut radicibus renascitur. ',"Stipula illecta' est spicae in messe deiectae necdum lectae,"
+Dig.50.16.30.1,Dig.50.16.30.2,適用,次の section に閉じ引用符あり（' 2 個）,"ctae necdum lectae, quas rustici cum uacauerint colligunt. '","Noualis' est terra praecisa, quae anno cessauit, quam Graeci"
+Dig.50.16.30.2,Dig.50.16.30.3,適用,次の section に閉じ引用符あり（' 2 個）,"a praecisa, quae anno cessauit, quam Graeci νέασιν uocant. '","Integra' autem est, in quam nondum dominus pascendi gratia p"
+Dig.50.16.30.3,Dig.50.16.30.4,適用,次の section に閉じ引用符あり（' 2 個）,"est, in quam nondum dominus pascendi gratia pecus immisit. '","Glans caduca' est, quae ex arbore cecidit. '"
+Dig.50.16.30.4,Dig.50.16.30.5,適用,次の section に閉じ引用符あり（' 1 個）,"Glans caduca' est, quae ex arbore cecidit. '","Pascua silua' est, quae pastui pecudum destinata est."
+Dig.50.16.39.pr,Dig.50.16.39.1,適用,次の section に閉じ引用符あり（' 2 個）,eteres subsignationis uerbo pro adscriptione uti solebant. ',"Bona' intelleguntur cuiusque, quae deducto aere alieno super"
+Dig.50.16.39.1,Dig.50.16.39.2,適用,次の section に閉じ引用符あり（' 2 個）,"ntelleguntur cuiusque, quae deducto aere alieno supersunt. '",Detestari' est absenti denuntiare. '
+Dig.50.16.39.2,Dig.50.16.39.3,適用,次の section に閉じ引用符あり（' 1 個）,Detestari' est absenti denuntiare. ',"Incertus possessor' est, quem ignoramus."
+Dig.50.16.40.pr,Dig.50.16.40.1,適用,次の section に閉じ引用符あり（' 2 個）,Detestatio' est denuntiatio facta cum testatione. ',Serui' appellatio etiam ad ancillam refertur. '
+Dig.50.16.40.1,Dig.50.16.40.2,適用,次の section に閉じ引用符あり（' 1 個）,Serui' appellatio etiam ad ancillam refertur. ',Familiae' appellatione liberi quoque continentur.
+Dig.50.16.46.pr,Dig.50.16.46.1,適用,次の section に閉じ引用符あり（' 1 個）," statuisse solemus dicere eos, qui ius habent cognoscendi. '","Matrem familias' accipere debemus eam, quae non inhoneste ui"
+Dig.50.16.56.pr,Dig.50.16.56.1,適用,次の section に閉じ引用符あり（' 1 個）,t recognoscere: 'dispungere' est conferre accepta et data. ',Liberorum' appellatione continentur non tantum qui sunt in p
+Dig.50.16.57.pr,Dig.50.16.57.1,適用,次の section に閉じ引用符あり（' 1 個）,praeceptores magistros appellari a monendo uel monstrando. ',Persequi' uidetur et qui satis accepit.
+Dig.50.16.67.pr,Dig.50.16.67.1,適用,次の section に閉じ引用符あり（' 1 個）, dominio uenditoris manet: 'uenditum' tamen recte dicetur. ',Donationis' uerbum simpliciter loquendo omnem donationem com
+Dig.50.16.79.pr,Dig.50.16.79.1,適用,次の section に閉じ引用符あり（' 2 個）,"factae non sint, res aut peritura aut deterior futura sit. '","Utiles impensas' esse Fulcinius ait, quae meliorem dotem fac"
+Dig.50.16.79.1,Dig.50.16.79.2,適用,次の section に閉じ引用符あり（' 1 個）,inum et horreum insulae dotali adiectum plerumque dicemus. ',"Uoluptariae' sunt, quae speciem dumtaxat ornant, non etiam f"
+Dig.50.16.99.pr,Dig.50.16.99.1,適用,次の section に閉じ引用符あり（' 2 個）,ionem' accipere possumus et cognitionem et iurisdictionem. ',"Continentes prouincias' accipere debemus eas, quae Italiae i"
+Dig.50.16.99.1,Dig.50.16.99.2,適用,次の section に閉じ引用符あり（' 1 個）," accipere nos oportet, quae modico freto Italia diuiditur. '","Instrumentorum' appellatione quae compraehendantur, perquam "
+Dig.50.16.101.pr,Dig.50.16.101.1,適用,次の section に閉じ引用符あり（' 3 個）,ed lex Iulia de adulteriis hoc uerbo indifferenter utitur. ',"Diuortium' inter uirum et uxorem fieri dicitur, 'repudium' u"
+Dig.50.16.139.pr,Dig.50.16.139.1,適用,次の section に閉じ引用符あり（' 1 個）,"ea uidentur, quae in continentibus Romae aedificiis fiant. '","Perfecisse' aedificium is uidetur, qui ita consummauit, ut i"
+Dig.50.16.163.pr,Dig.50.16.163.1,適用,次の section に閉じ引用符あり（' 1 個）,ca edictum praetoris 'supremae tabulae' habentur et solae. ',Pueri' appellatione etiam puella significatur: nam et femina
+Dig.50.16.164.pr,Dig.50.16.164.1,適用,次の section に閉じ引用符あり（' 3 個）," cadere in eam, quae iam in rebus humanis sit, certum sit. '","Partitionis' nomen non semper dimidium significat, sed prout"
+Dig.50.16.166.pr,Dig.50.16.166.1,適用,次の section に閉じ引用符あり（' 3 個）,e habuerit: quod ex numero familiae et uicariis apparebit. ',"Pernoctare extra urbem' intellegendus est, qui nulla parte n"
+Dig.50.16.178.1,Dig.50.16.178.2,適用,次の section に閉じ引用符あり（' 7 個）, se recipit: hereditas autem uel maxime fructibus augetur. ',Actionis' uerbum et speciale est et generale. nam omnis acti
+Dig.50.16.188.pr,Dig.50.16.188.1,適用,次の section に閉じ引用符あり（' 1 個）, altero optinere sine interpellatione id quod quis emerit. ',"Cautum' intellegitur, siue personis siue rebus cautum sit."
+Dig.50.16.195.pr,Dig.50.16.195.1,適用,次の section に閉じ引用符あり（' 7 個）, in sexu masculino ad utrumque sexum plerumque porrigitur. ',"Familiae' appellatio qualiter accipiatur, uideamus. et quide"
+Dig.50.16.213.pr,Dig.50.16.213.1,適用,次の section に閉じ引用符あり（' 4 個）,", neque cessit neque uenit dies pendente adhuc condicione. '","Aes alienum' est, quod nos aliis debemus: 'aes suum' est, qu"
+Dig.50.16.213.1,Dig.50.16.213.2,適用,次の section に閉じ引用符あり（' 1 個）,"nos aliis debemus: 'aes suum' est, quod alii nobis debent. '","Lata culpa' est nimia neglegentia, id est non intellegere qu"
+Dig.50.16.223.pr,Dig.50.16.223.1,適用,次の section に閉じ引用符あり（' 1 個）,ulpae finis est non intellegere id quod omnes intellegunt. ',"Amicos' appellare debemus non leui notitia coniunctos, sed q"
+Dig.50.16.233.1,Dig.50.16.233.2,適用,次の section に閉じ引用符あり（' 1 個）,nuarias die tertio pro salute principis uota suscipiuntur. ',"Telum' uolgo quidem id appellatur, quod ab arcu mittitur: se"
+Dig.50.16.234.pr,Dig.50.16.234.1,適用,次の section に閉じ引用符あり（' 1 個）,"t, per eam adiectionem indicantes cum quibus bellum esset. '","Locuples' est, qui satis idonee habet pro magnitudine rei, q"
+Dig.50.16.235.pr,Dig.50.16.235.1,適用,次の section に閉じ引用符あり（' 1 個）,"ae quis iumento secum ducit: 'agi' ea, quae animalia sunt. '","Fabros tignarios' dicimus non eos dumtaxat, qui tigna dolare"
+Dig.50.16.236.pr,Dig.50.16.236.1,適用,次の section に閉じ引用符あり（' 1 個）,"c ait. φάρμακα, πολλὰ μὲν ἐσθλὰ μεμιγμένα, πολλὰ δὲ λυγρά. '","Glandis' appellatione omnis fructus continetur, ut Iauolenus"
+Dig.50.16.238.pr,Dig.50.16.238.1,適用,次の section に閉じ引用符あり（' 2 個）,Plebs' est ceteri ciues sine senatoribus. ',Detestatum' est testatione denuntiatum. '
+Dig.50.16.238.1,Dig.50.16.238.2,適用,次の section に閉じ引用符あり（' 2 個）,Detestatum' est testatione denuntiatum. ',"Pignus' appellatum a pugno, quia res, quae pignori dantur, m"
+Dig.50.16.238.2,Dig.50.16.238.3,適用,次の section に閉じ引用符あり（' 1 個）," quod quidam putant, pignus proprie rei mobilis constitui. '",Noxiae' appellatione omne delictum continetur.
+Dig.50.16.239.pr,Dig.50.16.239.1,適用,次の section に閉じ引用符あり（' 2 個）,siit in patris potestate esse aut morte aut emancipatione. ',"Seruorum' appellatio ex eo fluxit, quod imperatores nostri c"
+Dig.50.16.239.1,Dig.50.16.239.2,適用,次の section に閉じ引用符あり（' 2 個）,i captiuos uendere ac per hoc seruare nec occidere solent. ',"Incola' est, qui aliqua regione domicilium suum contulit: qu"
+Dig.50.16.239.2,Dig.50.16.239.3,適用,次の section に閉じ引用符あり（' 2 個）,"rum habent, ut in eum se quasi in aliquam sedem recipiant. '","Munus publicum' est officium priuati hominis, ex quo commodu"
+Dig.50.16.239.3,Dig.50.16.239.4,適用,次の section に閉じ引用符あり（' 2 個）,remque eorum imperio magistratus extraordinarium peruenit. ',"Aduena' est, quem Graeci ἄποικον appellant. '"
+Dig.50.16.239.4,Dig.50.16.239.5,適用,次の section に閉じ引用符あり（' 2 個）,"Aduena' est, quem Graeci ἄποικον appellant. '","Decuriones' quidam dictos aiunt ex eo, quod initio, cum colo"
+Dig.50.16.239.5,Dig.50.16.239.6,適用,次の section に閉じ引用符あり（' 2 個）,i ducerentur consilii publici gratia conscribi solita sit. ',Urbs' ab urbo appellata est: urbare est aratro definire. et 
+Dig.50.16.239.6,Dig.50.16.239.7,適用,次の section に閉じ引用符あり（' 2 個）,"i curuaturam aratri, quod in urbe condenda adhiberi solet. '","Oppidum' ab ope dicitur, quod eius rei causa moenia sint con"
+Dig.50.16.239.7,Dig.50.16.239.8,適用,次の section に閉じ引用符あり（' 1 個）,"b ope dicitur, quod eius rei causa moenia sint constituta. '",Territorium' est uniuersitas agrorum intra fines cuiusque ci
+Dig.50.16.242.2,Dig.50.16.242.3,適用,次の section に閉じ引用符あり（' 1 個）,"d id, quod hypaethri tegendi causa poneretur, contra esse. '","Uiduam' non solum eam, quae aliquando nupta fuisset, sed eam"

@@ -1,0 +1,338 @@
+old_xml_id,new_xml_id,action,boundary_words,source_page,note
+Dig.2.2.1.pr,Dig.2.2.1.pr,split,Hoc edictum summam habet aequitatem et,"I, p.42",当方の section を分割（分割後の一方）
+Dig.2.2.1.pr,Dig.2.2.1.1,split,Qui magistratum potestatemue habebit si quid,"I, p.42",当方の section を分割（分割後の一方）
+Dig.2.2.1.1,Dig.2.2.1.2,renumber,Haec autem uerba quod statuerit qui,"I, p.42",番号のみ変更 .1 → .2
+Dig.2.4.8.pr,Dig.2.4.8.pr,split,Adoptiuum patrem quamdiu in potestate est,"I, pp.44-45",当方の section を分割（分割後の一方）
+Dig.2.4.8.pr,Dig.2.4.8.1,split,Patronum inquit patronam patroni hic accipiendi,"I, pp.44-45",当方の section を分割（分割後の一方）
+Dig.2.4.8.1,Dig.2.4.8.2,renumber,Sed si ad iusiurandum adegi ne,"I, pp.44-45",番号のみ変更 .1 → .2
+Dig.2.14.1.pr,Dig.2.14.1.pr,unchanged,,"I, p.62",
+Dig.2.14.1.1,Dig.2.14.1.1,split,Pactum autem a pactione dicitur inde,"I, p.62",当方の section を分割（分割後の一方）
+Dig.2.14.1.1,Dig.2.14.1.2,split,et est pactio duorum pluriumue in,"I, p.62",当方の section を分割（分割後の一方）
+Dig.2.14.1.2,Dig.2.14.1.3,renumber,Conuentionis uerbum generale est ad omnia,"I, p.62",番号のみ変更 .2 → .3
+Dig.2.14.1.3,Dig.2.14.1.4,renumber,Sed conuentionum pleraeque in aliud nomen,"I, p.62",番号のみ変更 .3 → .4
+Dig.2.14.7.pr,Dig.2.14.7.pr,unchanged,,"I, pp.63-65",
+Dig.2.14.7.1,Dig.2.14.7.1,unchanged,,"I, pp.63-65",
+Dig.2.14.7.2;Dig.2.14.7.3,Dig.2.14.7.2,merge,Sed et si in alium contractum,"I, pp.63-65",当方の 2 section を統合
+Dig.2.14.7.4,Dig.2.14.7.3,renumber,Si ob maleficium ne fiat promissum,"I, pp.63-65",番号のみ変更 .4 → .3
+Dig.2.14.7.5,Dig.2.14.7.4,renumber,Sed cum nulla subest causa propter,"I, pp.63-65",番号のみ変更 .5 → .4
+Dig.2.14.7.6,Dig.2.14.7.5,renumber,Quin immo interdum format ipsam actionem,"I, pp.63-65",番号のみ変更 .6 → .5
+Dig.2.14.7.7,Dig.2.14.7.6,renumber,Adeo autem bonae fidei iudiciis exceptiones,"I, pp.63-65",番号のみ変更 .7 → .6
+Dig.2.14.7.8,Dig.2.14.7.7,split,Ait praetor Pacta conuenta quae neque,"I, pp.63-65",当方の section を分割（分割後の一方）
+Dig.2.14.7.8,Dig.2.14.7.8,split,Pactorum quaedam in rem sunt quaedam,"I, pp.63-65",当方の section を分割（分割後の一方）
+Dig.2.14.7.9,Dig.2.14.7.9,unchanged,,"I, pp.63-65",
+Dig.2.14.7.10,Dig.2.14.7.10,unchanged,,"I, pp.63-65",
+Dig.2.14.7.11,Dig.2.14.7.11,unchanged,,"I, pp.63-65",
+Dig.2.14.7.12,Dig.2.14.7.12,unchanged,,"I, pp.63-65",
+Dig.2.14.7.13,Dig.2.14.7.13,unchanged,,"I, pp.63-65",
+Dig.2.14.7.14,Dig.2.14.7.14,unchanged,,"I, pp.63-65",
+Dig.2.14.7.15,Dig.2.14.7.15,unchanged,,"I, pp.63-65",
+Dig.2.14.7.16,Dig.2.14.7.16,unchanged,,"I, pp.63-65",
+Dig.2.14.7.17,Dig.2.14.7.17,unchanged,,"I, pp.63-65",
+Dig.2.14.7.18,Dig.2.14.7.18,unchanged,,"I, pp.63-65",
+Dig.2.14.7.19,Dig.2.14.7.19,unchanged,,"I, pp.63-65",
+Dig.2.15.3.pr,Dig.2.15.3.pr,split,Imperatores Antoninus et Uerus ita rescripserunt,"I, pp.74-75",当方の section を分割（分割後の一方）
+Dig.2.15.3.pr,Dig.2.15.3.1,split,Cum transactio propter fideicommissum facta esset,"I, pp.74-75",当方の section を分割（分割後の一方）
+Dig.2.15.3.1,Dig.2.15.3.2,renumber,Debitor cuius pignus creditor distraxit cum,"I, pp.74-75",番号のみ変更 .1 → .2
+Dig.3.1.3.pr,Dig.3.1.3.pr,split,Cui eorum a parente aut de,"I, p.81",当方の section を分割（分割後の一方）
+Dig.3.1.3.pr,Dig.3.1.3.1,split,Adfinitates non eas accipere debemus quae,"I, p.81",当方の section を分割（分割後の一方）
+Dig.3.1.3.1,Dig.3.1.3.2,renumber,Item Pomponius nurus et generi appellatione,"I, p.81",番号のみ変更 .1 → .2
+Dig.3.1.3.2,Dig.3.1.3.3,renumber,In curatoribus debuisse eum adicere muti,"I, p.81",番号のみ変更 .2 → .3
+Dig.4.4.29.pr,Dig.4.4.29.pr,split,Etiamsi patre eodemque tutore auctore pupillus,"I, p.134",当方の section を分割（分割後の一方）
+Dig.4.4.29.pr,Dig.4.4.29.1,split,Ex causa curationis condemnata pupilla aduersus,"I, p.134",当方の section を分割（分割後の一方）
+Dig.4.4.29.1,Dig.4.4.29.2,renumber,Si hereditate patris aetatis beneficio in,"I, p.134",番号のみ変更 .1 → .2
+Dig.10.1.4.pr,Dig.10.1.4.pr,unchanged,,"I, pp.306-307",
+Dig.10.1.4.1,Dig.10.1.4.1,unchanged,,"I, pp.306-307",
+Dig.10.1.4.2,Dig.10.1.4.2,unchanged,,"I, pp.306-307",
+Dig.10.1.4.3,Dig.10.1.4.3,unchanged,,"I, pp.306-307",
+Dig.10.1.4.4,Dig.10.1.4.4,unchanged,,"I, pp.306-307",
+Dig.10.1.4.5,Dig.10.1.4.5,split,Si alter fundus duorum alter trium,"I, pp.306-307",当方の section を分割（分割後の一方）
+Dig.10.1.4.5,Dig.10.1.4.6,split,quam in fundo habet et pro,"I, pp.306-307",当方の section を分割（分割後の一方）
+Dig.10.1.4.6,Dig.10.1.4.7,renumber,Si communem fundum ego et tu,"I, pp.306-307",番号のみ変更 .6 → .7
+Dig.10.1.4.7,Dig.10.1.4.8,renumber,Non solum autem inter duos fundos,"I, pp.306-307",番号のみ変更 .7 → .8
+Dig.10.1.4.8,Dig.10.1.4.9,renumber,Finium regundorum actio et in agris,"I, pp.306-307",番号のみ変更 .8 → .9
+Dig.10.1.4.9,Dig.10.1.4.10,renumber,Hoc iudicium locum habet in confinio,"I, pp.306-307",番号のみ変更 .9 → .10
+Dig.10.1.4.10,Dig.10.1.4.11,renumber,Siue flumen siue uia publica interuenit,"I, pp.306-307",番号のみ変更 .10 → .11
+Dig.11.5.1.pr,Dig.11.5.1.pr,split,Praetor ait Si quis eum apud,"I, p.346",当方の section を分割（分割後の一方）
+Dig.11.5.1.pr,Dig.11.5.1.1,split,Si rapinas fecerint inter se collusores,"I, p.346",当方の section を分割（分割後の一方）
+Dig.11.5.1.1,Dig.11.5.1.2,renumber,Item notandum quod susceptorem uerberatum quidem,"I, p.346",番号のみ変更 .1 → .2
+Dig.11.5.1.2,Dig.11.5.1.3,split,Quod autem praetor negat se furti,"I, p.346",当方の section を分割（分割後の一方）
+Dig.11.5.1.2,Dig.11.5.1.4,split,In eum inquit qui aleae ludendae,"I, p.346",当方の section を分割（分割後の一方）
+Dig.23.2.57.pr,Dig.23.2.57.pr,split,Qui in prouincia officium aliquid gerit,"I, p.665",当方の section を分割（分割後の一方）
+Dig.23.2.57.pr,Dig.23.2.57.pra,split,Diuus Marcus et Lucius imperatores Flauiae,"I, p.665",当方の section を分割（分割後の一方）
+Dig.29.3.2.pr,Dig.29.3.2.pr,unchanged,,"I, p.889",
+Dig.29.3.2.1,Dig.29.3.2.1,unchanged,,"I, p.889",
+Dig.29.3.2.2,Dig.29.3.2.2,unchanged,,"I, p.889",
+Dig.29.3.2.3,Dig.29.3.2.3,unchanged,,"I, p.889",
+Dig.29.3.2.4,Dig.29.3.2.4,split,Si dubitetur utrum uiuat an decesserit,"I, p.889",当方の section を分割（分割後の一方）
+Dig.29.3.2.4,Dig.29.3.2.4a,split,Inspici tabulas est ut ipsam scripturam,"I, p.889",当方の section を分割（分割後の一方）
+Dig.29.3.2.5,Dig.29.3.2.5,unchanged,,"I, p.889",
+Dig.29.3.2.6,Dig.29.3.2.6,unchanged,,"I, p.889",
+Dig.29.3.2.7,Dig.29.3.2.7,unchanged,,"I, p.889",
+Dig.29.3.2.8,Dig.29.3.2.8,unchanged,,"I, p.889",
+Dig.37.6.1.pr,Dig.37.6.1.pr,unchanged,,"II, pp.291-293",
+Dig.37.6.1.1,Dig.37.6.1.1,unchanged,,"II, pp.291-293",
+Dig.37.6.1.2,Dig.37.6.1.2,unchanged,,"II, pp.291-293",
+Dig.37.6.1.3,Dig.37.6.1.3,unchanged,,"II, pp.291-293",
+Dig.37.6.1.4,Dig.37.6.1.4,unchanged,,"II, pp.291-293",
+Dig.37.6.1.5,Dig.37.6.1.5,unchanged,,"II, pp.291-293",
+Dig.37.6.1.6,Dig.37.6.1.6,unchanged,,"II, pp.291-293",
+Dig.37.6.1.7,Dig.37.6.1.7,unchanged,,"II, pp.291-293",
+Dig.37.6.1.8,Dig.37.6.1.8,split,Ibidem Iulianus ait si bonorum possessione,"II, pp.291-293",当方の section を分割（分割後の一方）
+Dig.37.6.1.8,Dig.37.6.1.9,split,Iubet autem praetor ita fieri collationem,"II, pp.291-293",当方の section を分割（分割後の一方）
+Dig.37.6.1.9,Dig.37.6.1.10,renumber,Si frater cauere non possit curator,"II, pp.291-293",番号のみ変更 .9 → .10
+Dig.37.6.1.10,Dig.37.6.1.11,renumber,Quamuis autem edictum praetoris de cautione,"II, pp.291-293",番号のみ変更 .10 → .11
+Dig.37.6.1.11,Dig.37.6.1.12,renumber,Sed et si tantum forte in,"II, pp.291-293",番号のみ変更 .11 → .12
+Dig.37.6.1.12,Dig.37.6.1.13,renumber,Si cum duobus conferre deberet alteri,"II, pp.291-293",番号のみ変更 .12 → .13
+Dig.37.6.1.13,Dig.37.6.1.14,renumber,Is quoque qui in adoptiua familia,"II, pp.291-293",番号のみ変更 .13 → .14
+Dig.37.6.1.14,Dig.37.6.1.15,renumber,Nec castrense nec quasi castrense peculium,"II, pp.291-293",番号のみ変更 .14 → .15
+Dig.37.6.1.15;Dig.37.6.1.16,Dig.37.6.1.16,merge,Sed an id quod dignitatis nomine,"II, pp.291-293",当方の 2 section を統合
+Dig.37.6.1.17,Dig.37.6.1.17,unchanged,,"II, pp.291-293",
+Dig.37.6.1.18,Dig.37.6.1.18,unchanged,,"II, pp.291-293",
+Dig.37.6.1.19,Dig.37.6.1.19,unchanged,,"II, pp.291-293",
+Dig.37.6.1.20,Dig.37.6.1.20,unchanged,,"II, pp.291-293",
+Dig.37.6.1.21,Dig.37.6.1.21,unchanged,,"II, pp.291-293",
+Dig.37.6.1.22,Dig.37.6.1.22,unchanged,,"II, pp.291-293",
+Dig.37.6.1.23,Dig.37.6.1.23,unchanged,,"II, pp.291-293",
+Dig.37.6.1.24,Dig.37.6.1.24,unchanged,,"II, pp.291-293",
+Dig.38.17.2.pr,Dig.38.17.2.pr,split,Siue ingenua sit mater siue libertina,"II, pp.370-373",当方の section を分割（分割後の一方）
+Dig.38.17.2.pr,Dig.38.17.2.1,split,Filium autem uel filiam accipere debemus,"II, pp.370-373",当方の section を分割（分割後の一方）
+Dig.38.17.2.1,Dig.38.17.2.2,renumber,Sed si filius uel filia libertini,"II, pp.370-373",番号のみ変更 .1 → .2
+Dig.38.17.2.2,Dig.38.17.2.3,renumber,Sed si in seruitute concepit filium,"II, pp.370-373",番号のみ変更 .2 → .3
+Dig.38.17.2.3,Dig.38.17.2.4,renumber,Si mulier sit famosa ad legitimam,"II, pp.370-373",番号のみ変更 .3 → .4
+Dig.38.17.2.4,Dig.38.17.2.5,renumber,Impuberem cui pater secundas tabulas fecit,"II, pp.370-373",番号のみ変更 .4 → .5
+Dig.38.17.2.5,Dig.38.17.2.6,renumber,Liberi defuncti sui quidem obstabunt matri,"II, pp.370-373",番号のみ変更 .5 → .6
+Dig.38.17.2.6,Dig.38.17.2.7,renumber,Si uero apud hostes est filius,"II, pp.370-373",番号のみ変更 .6 → .7
+Dig.38.17.2.7;Dig.38.17.2.8,Dig.38.17.2.8,merge,Sed si sint sui heredes uerum,"II, pp.370-373",当方の 2 section を統合
+Dig.38.17.2.9,Dig.38.17.2.9,unchanged,,"II, pp.370-373",
+Dig.38.17.2.10,Dig.38.17.2.10,unchanged,,"II, pp.370-373",
+Dig.38.17.2.11,Dig.38.17.2.11,unchanged,,"II, pp.370-373",
+Dig.38.17.2.12,Dig.38.17.2.12,unchanged,,"II, pp.370-373",
+Dig.38.17.2.13,Dig.38.17.2.13,unchanged,,"II, pp.370-373",
+Dig.38.17.2.14,Dig.38.17.2.14,unchanged,,"II, pp.370-373",
+Dig.38.17.2.15,Dig.38.17.2.15,unchanged,,"II, pp.370-373",
+Dig.38.17.2.16,Dig.38.17.2.16,unchanged,,"II, pp.370-373",
+Dig.38.17.2.17,Dig.38.17.2.17,unchanged,,"II, pp.370-373",
+Dig.38.17.2.18,Dig.38.17.2.18,unchanged,,"II, pp.370-373",
+Dig.38.17.2.19,Dig.38.17.2.19,unchanged,,"II, pp.370-373",
+Dig.38.17.2.20,Dig.38.17.2.20,unchanged,,"II, pp.370-373",
+Dig.38.17.2.21,Dig.38.17.2.21,unchanged,,"II, pp.370-373",
+Dig.38.17.2.22,Dig.38.17.2.22,unchanged,,"II, pp.370-373",
+Dig.38.17.2.23,Dig.38.17.2.23,unchanged,,"II, pp.370-373",
+Dig.38.17.2.24,Dig.38.17.2.24,unchanged,,"II, pp.370-373",
+Dig.38.17.2.25,Dig.38.17.2.25,unchanged,,"II, pp.370-373",
+Dig.38.17.2.26,Dig.38.17.2.26,unchanged,,"II, pp.370-373",
+Dig.38.17.2.27,Dig.38.17.2.27,unchanged,,"II, pp.370-373",
+Dig.38.17.2.28,Dig.38.17.2.28,unchanged,,"II, pp.370-373",
+Dig.38.17.2.29,Dig.38.17.2.29,unchanged,,"II, pp.370-373",
+Dig.38.17.2.30,Dig.38.17.2.30,unchanged,,"II, pp.370-373",
+Dig.38.17.2.31,Dig.38.17.2.31,unchanged,,"II, pp.370-373",
+Dig.38.17.2.32,Dig.38.17.2.32,unchanged,,"II, pp.370-373",
+Dig.38.17.2.33,Dig.38.17.2.33,unchanged,,"II, pp.370-373",
+Dig.38.17.2.34,Dig.38.17.2.34,unchanged,,"II, pp.370-373",
+Dig.38.17.2.35,Dig.38.17.2.35,unchanged,,"II, pp.370-373",
+Dig.38.17.2.36,Dig.38.17.2.36,unchanged,,"II, pp.370-373",
+Dig.38.17.2.37,Dig.38.17.2.37,unchanged,,"II, pp.370-373",
+Dig.38.17.2.38,Dig.38.17.2.38,unchanged,,"II, pp.370-373",
+Dig.38.17.2.39,Dig.38.17.2.39,unchanged,,"II, pp.370-373",
+Dig.38.17.2.40,Dig.38.17.2.40,unchanged,,"II, pp.370-373",
+Dig.38.17.2.41,Dig.38.17.2.41,unchanged,,"II, pp.370-373",
+Dig.38.17.2.42,Dig.38.17.2.42,unchanged,,"II, pp.370-373",
+Dig.38.17.2.43,Dig.38.17.2.43,unchanged,,"II, pp.370-373",
+Dig.38.17.2.44,Dig.38.17.2.44,unchanged,,"II, pp.370-373",
+Dig.38.17.2.45,Dig.38.17.2.45,unchanged,,"II, pp.370-373",
+Dig.38.17.2.46,Dig.38.17.2.46,unchanged,,"II, pp.370-373",
+Dig.38.17.2.47,Dig.38.17.2.47,unchanged,,"II, pp.370-373",
+Dig.39.2.18.pr,Dig.39.2.18.pr,unchanged,,"II, pp.387-388",
+Dig.39.2.18.1,Dig.39.2.18.1,unchanged,,"II, pp.387-388",
+Dig.39.2.18.2,Dig.39.2.18.2,unchanged,,"II, pp.387-388",
+Dig.39.2.18.3,Dig.39.2.18.3,unchanged,,"II, pp.387-388",
+Dig.39.2.18.4,Dig.39.2.18.4,unchanged,,"II, pp.387-388",
+Dig.39.2.18.5;Dig.39.2.18.6,Dig.39.2.18.5,merge,Si is qui unas aedes habebat,"II, pp.387-388",当方の 2 section を統合
+Dig.39.2.18.7,Dig.39.2.18.6,split,Si autem res aliquas post stipulationem,"II, pp.387-388",当方の section を分割（分割後の一方）
+Dig.39.2.18.7,Dig.39.2.18.7,split,Emptor praedii si ante traditionem stipulatus,"II, pp.387-388",当方の section を分割（分割後の一方）
+Dig.39.2.18.8,Dig.39.2.18.8,unchanged,,"II, pp.387-388",
+Dig.39.2.18.9,Dig.39.2.18.9,unchanged,,"II, pp.387-388",
+Dig.39.2.18.10,Dig.39.2.18.10,unchanged,,"II, pp.387-388",
+Dig.39.2.18.11,Dig.39.2.18.11,unchanged,,"II, pp.387-388",
+Dig.39.2.18.12,Dig.39.2.18.12,unchanged,,"II, pp.387-388",
+Dig.39.2.18.13,Dig.39.2.18.13,unchanged,,"II, pp.387-388",
+Dig.39.2.18.14,Dig.39.2.18.14,unchanged,,"II, pp.387-388",
+Dig.39.2.18.15,Dig.39.2.18.15,unchanged,,"II, pp.387-388",
+Dig.39.2.18.16,Dig.39.2.18.16,unchanged,,"II, pp.387-388",
+Dig.39.3.1.pr,Dig.39.3.1.pr,unchanged,,"II, p.398",
+Dig.39.3.1.1,Dig.39.3.1.1,unchanged,,"II, p.398",
+Dig.39.3.1.2,Dig.39.3.1.2,unchanged,,"II, p.398",
+Dig.39.3.1.3;Dig.39.3.1.4,Dig.39.3.1.3,merge,De eo opere quod agri colendi,"II, p.398",当方の 2 section を統合
+Dig.39.3.1.5,Dig.39.3.1.4,renumber,Sed et fossas agrorum siccandorum causa,"II, p.398",番号のみ変更 .5 → .4
+Dig.39.3.1.6;Dig.39.3.1.7,Dig.39.3.1.5,merge,Sed et si quis arare et,"II, p.398",当方の 2 section を統合
+Dig.39.3.1.8,Dig.39.3.1.6,renumber,Sed apud Seruii auditores relatum est,"II, p.398",番号のみ変更 .8 → .6
+Dig.39.3.1.9,Dig.39.3.1.7,renumber,Labeo etiam scribit ea quaecumque frugum,"II, p.398",番号のみ変更 .9 → .7
+Dig.39.3.1.10,Dig.39.3.1.8,split,Item Sabinus Cassius opus manu factum,"II, p.398",当方の section を分割（分割後の一方）
+Dig.39.3.1.10,Dig.39.3.1.9,split,Sulcos tamen aquarios qui appellantur si,"II, p.398",当方の section を分割（分割後の一方）
+Dig.39.3.1.11,Dig.39.3.1.10,renumber,Idem aiunt si aqua naturaliter decurrat,"II, p.398",番号のみ変更 .11 → .10
+Dig.39.3.1.12,Dig.39.3.1.11,renumber,Idem aiunt aquam pluuiam in suo,"II, p.398",番号のみ変更 .12 → .11
+Dig.39.3.1.13,Dig.39.3.1.12,renumber,Denique Marcellus scribit cum eo qui,"II, p.398",番号のみ変更 .13 → .12
+Dig.39.3.1.14,Dig.39.3.1.13,renumber,Item sciendum est hanc actionem uel,"II, p.398",番号のみ変更 .14 → .13
+Dig.39.3.1.15,Dig.39.3.1.14,renumber,Huic illud etiam applicandum numquam competere,"II, p.398",番号のみ変更 .15 → .14
+Dig.39.3.1.16,Dig.39.3.1.15,split,In summa puto ita demum aquae,"II, p.398",当方の section を分割（分割後の一方）
+Dig.39.3.1.16,Dig.39.3.1.16,split,Imbre autem crescere eam aquam quae,"II, p.398",当方の section を分割（分割後の一方）
+Dig.39.3.1.17,Dig.39.3.1.17,unchanged,,"II, p.398",
+Dig.39.3.1.18,Dig.39.3.1.18,unchanged,,"II, p.398",
+Dig.39.3.1.19,Dig.39.3.1.19,unchanged,,"II, p.398",
+Dig.39.3.1.20,Dig.39.3.1.20,unchanged,,"II, p.398",
+Dig.39.3.1.21,Dig.39.3.1.21,unchanged,,"II, p.398",
+Dig.39.3.1.22,Dig.39.3.1.22,unchanged,,"II, p.398",
+Dig.39.3.1.23,Dig.39.3.1.23,unchanged,,"II, p.398",
+Dig.40.7.2.pr,Dig.40.7.2.pr,unchanged,,"II, pp.456-457",
+Dig.40.7.2.1;Dig.40.7.2.2,Dig.40.7.2.1,merge,Sed si impuberis tabulis libertas seruo,"II, pp.456-457",当方の 2 section を統合
+Dig.40.7.2.3,Dig.40.7.2.2,split,Plus scripsit Iulianus et si legatus,"II, pp.456-457",当方の section を分割（分割後の一方）
+Dig.40.7.2.3,Dig.40.7.2.3,split,Si primis tabulis sub condicione seruus,"II, pp.456-457",当方の section を分割（分割後の一方）
+Dig.40.7.2.4,Dig.40.7.2.4,unchanged,,"II, pp.456-457",
+Dig.40.7.40.pr,Dig.40.7.40.pr,split,Sticho libertas data est ab heredibus,"II, pp.467-469",当方の section を分割（分割後の一方）
+Dig.40.7.40.pr,Dig.40.7.40.1,split,Pamphilus liber esto peculio suo heredibus,"II, pp.467-469",当方の section を分割（分割後の一方）
+Dig.40.7.40.1;Dig.40.7.40.2,Dig.40.7.40.2,merge,Pamphilo liberto quem heredem ex parte,"II, pp.467-469",当方の 2 section を統合
+Dig.40.7.40.3,Dig.40.7.40.3,unchanged,,"II, pp.467-469",
+Dig.40.7.40.4,Dig.40.7.40.4,unchanged,,"II, pp.467-469",
+Dig.40.7.40.5,Dig.40.7.40.5,unchanged,,"II, pp.467-469",
+Dig.40.7.40.6,Dig.40.7.40.6,unchanged,,"II, pp.467-469",
+Dig.40.7.40.7,Dig.40.7.40.7,unchanged,,"II, pp.467-469",
+Dig.40.7.40.8,Dig.40.7.40.8,unchanged,,"II, pp.467-469",
+Dig.43.16.1.pr,Dig.43.16.1.pr,unchanged,,"II, pp.582-585",
+Dig.43.16.1.1,Dig.43.16.1.1,unchanged,,"II, pp.582-585",
+Dig.43.16.1.2,Dig.43.16.1.2,unchanged,,"II, pp.582-585",
+Dig.43.16.1.3,Dig.43.16.1.3,unchanged,,"II, pp.582-585",
+Dig.43.16.1.4,Dig.43.16.1.4,unchanged,,"II, pp.582-585",
+Dig.43.16.1.5,Dig.43.16.1.5,unchanged,,"II, pp.582-585",
+Dig.43.16.1.6,Dig.43.16.1.6,unchanged,,"II, pp.582-585",
+Dig.43.16.1.7,Dig.43.16.1.7,unchanged,,"II, pp.582-585",
+Dig.43.16.1.8,Dig.43.16.1.8,unchanged,,"II, pp.582-585",
+Dig.43.16.1.9,Dig.43.16.1.9,unchanged,,"II, pp.582-585",
+Dig.43.16.1.10,Dig.43.16.1.10,unchanged,,"II, pp.582-585",
+Dig.43.16.1.11,Dig.43.16.1.11,unchanged,,"II, pp.582-585",
+Dig.43.16.1.12,Dig.43.16.1.12,unchanged,,"II, pp.582-585",
+Dig.43.16.1.13;Dig.43.16.1.14,Dig.43.16.1.13,merge,Quotiens uerus procurator deiecerit cum utrolibet,"II, pp.582-585",当方の 2 section を統合
+Dig.43.16.1.15,Dig.43.16.1.14,renumber,Sed et si quod alius deiecit,"II, pp.582-585",番号のみ変更 .15 → .14
+Dig.43.16.1.16,Dig.43.16.1.15,renumber,Quod igitur additur aut familia tua,"II, pp.582-585",番号のみ変更 .16 → .15
+Dig.43.16.1.17,Dig.43.16.1.16,split,Familiae autem appellatio seruos continet,"II, pp.582-585",当方の section を分割（分割後の一方）
+Dig.43.16.1.17,Dig.43.16.1.17,split,Sed quaeritur quem numerum seruorum contineat,"II, pp.582-585",当方の section を分割（分割後の一方）
+Dig.43.16.1.18,Dig.43.16.1.18,unchanged,,"II, pp.582-585",
+Dig.43.16.1.19,Dig.43.16.1.19,unchanged,,"II, pp.582-585",
+Dig.43.16.1.20,Dig.43.16.1.20,unchanged,,"II, pp.582-585",
+Dig.43.16.1.21,Dig.43.16.1.21,unchanged,,"II, pp.582-585",
+Dig.43.16.1.22,Dig.43.16.1.22,unchanged,,"II, pp.582-585",
+Dig.43.16.1.23,Dig.43.16.1.23,unchanged,,"II, pp.582-585",
+Dig.43.16.1.24,Dig.43.16.1.24,unchanged,,"II, pp.582-585",
+Dig.43.16.1.25,Dig.43.16.1.25,unchanged,,"II, pp.582-585",
+Dig.43.16.1.26,Dig.43.16.1.26,unchanged,,"II, pp.582-585",
+Dig.43.16.1.27,Dig.43.16.1.27,unchanged,,"II, pp.582-585",
+Dig.43.16.1.28,Dig.43.16.1.28,unchanged,,"II, pp.582-585",
+Dig.43.16.1.29,Dig.43.16.1.29,unchanged,,"II, pp.582-585",
+Dig.43.16.1.30,Dig.43.16.1.30,unchanged,,"II, pp.582-585",
+Dig.43.16.1.31,Dig.43.16.1.31,unchanged,,"II, pp.582-585",
+Dig.43.16.1.32,Dig.43.16.1.32,unchanged,,"II, pp.582-585",
+Dig.43.16.1.33,Dig.43.16.1.33,unchanged,,"II, pp.582-585",
+Dig.43.16.1.34,Dig.43.16.1.34,unchanged,,"II, pp.582-585",
+Dig.43.16.1.35,Dig.43.16.1.35,unchanged,,"II, pp.582-585",
+Dig.43.16.1.36,Dig.43.16.1.36,unchanged,,"II, pp.582-585",
+Dig.43.16.1.37,Dig.43.16.1.37,unchanged,,"II, pp.582-585",
+Dig.43.16.1.38,Dig.43.16.1.38,unchanged,,"II, pp.582-585",
+Dig.43.16.1.39,Dig.43.16.1.39,unchanged,,"II, pp.582-585",
+Dig.43.16.1.40,Dig.43.16.1.40,unchanged,,"II, pp.582-585",
+Dig.43.16.1.41,Dig.43.16.1.41,unchanged,,"II, pp.582-585",
+Dig.43.16.1.42,Dig.43.16.1.42,unchanged,,"II, pp.582-585",
+Dig.43.16.1.43,Dig.43.16.1.43,unchanged,,"II, pp.582-585",
+Dig.43.16.1.44,Dig.43.16.1.44,unchanged,,"II, pp.582-585",
+Dig.43.16.1.45,Dig.43.16.1.45,unchanged,,"II, pp.582-585",
+Dig.43.16.1.46,Dig.43.16.1.46,unchanged,,"II, pp.582-585",
+Dig.43.16.1.47,Dig.43.16.1.47,unchanged,,"II, pp.582-585",
+Dig.43.16.1.48,Dig.43.16.1.48,unchanged,,"II, pp.582-585",
+Dig.43.20.1.pr,Dig.43.20.1.pr,unchanged,,"II, pp.594-598",
+Dig.43.20.1.1,Dig.43.20.1.1,unchanged,,"II, pp.594-598",
+Dig.43.20.1.2,Dig.43.20.1.2,unchanged,,"II, pp.594-598",
+Dig.43.20.1.3,Dig.43.20.1.3,unchanged,,"II, pp.594-598",
+Dig.43.20.1.4,Dig.43.20.1.4,unchanged,,"II, pp.594-598",
+Dig.43.20.1.5,Dig.43.20.1.5,unchanged,,"II, pp.594-598",
+Dig.43.20.1.6,Dig.43.20.1.6,unchanged,,"II, pp.594-598",
+Dig.43.20.1.7,Dig.43.20.1.7,unchanged,,"II, pp.594-598",
+Dig.43.20.1.8,Dig.43.20.1.8,unchanged,,"II, pp.594-598",
+Dig.43.20.1.9,Dig.43.20.1.9,unchanged,,"II, pp.594-598",
+Dig.43.20.1.10,Dig.43.20.1.10,unchanged,,"II, pp.594-598",
+Dig.43.20.1.11,Dig.43.20.1.11,unchanged,,"II, pp.594-598",
+Dig.43.20.1.12,Dig.43.20.1.12,unchanged,,"II, pp.594-598",
+Dig.43.20.1.13,Dig.43.20.1.13,unchanged,,"II, pp.594-598",
+Dig.43.20.1.14,Dig.43.20.1.14,unchanged,,"II, pp.594-598",
+Dig.43.20.1.15,Dig.43.20.1.15,unchanged,,"II, pp.594-598",
+Dig.43.20.1.16,Dig.43.20.1.16,unchanged,,"II, pp.594-598",
+Dig.43.20.1.17,Dig.43.20.1.17,unchanged,,"II, pp.594-598",
+Dig.43.20.1.18;Dig.43.20.1.19,Dig.43.20.1.18,merge,Trebatius cum amplior numerus pecoris ad,"II, pp.594-598",当方の 2 section を統合
+Dig.43.20.1.20,Dig.43.20.1.19,renumber,Aristo putat eum demum interdictum hoc,"II, pp.594-598",番号のみ変更 .20 → .19
+Dig.43.20.1.21,Dig.43.20.1.20,renumber,Idem ait eum qui hoc anno,"II, pp.594-598",番号のみ変更 .21 → .20
+Dig.43.20.1.22,Dig.43.20.1.21,renumber,Quaesitum est si quis ante annum,"II, pp.594-598",番号のみ変更 .22 → .21
+Dig.43.20.1.23,Dig.43.20.1.22,renumber,Item quaesitum est si quis dum,"II, pp.594-598",番号のみ変更 .23 → .22
+Dig.43.20.1.24,Dig.43.20.1.23,renumber,Praeterea illud sciendum est si cum,"II, pp.594-598",番号のみ変更 .24 → .23
+Dig.43.20.1.25,Dig.43.20.1.24,renumber,Si fundum ad quem aquam ducebas,"II, pp.594-598",番号のみ変更 .25 → .24
+Dig.43.20.1.26,Dig.43.20.1.25,renumber,Competit hoc interdictum aduersus eum qui,"II, pp.594-598",番号のみ変更 .26 → .25
+Dig.43.20.1.27,Dig.43.20.1.26,renumber,Si inter riuales id est qui,"II, pp.594-598",番号のみ変更 .27 → .26
+Dig.43.20.1.28,Dig.43.20.1.27,renumber,Labeo putat per hoc interdictum prohiberi,"II, pp.594-598",番号のみ変更 .28 → .27
+Dig.43.20.1.29,Dig.43.20.1.28,renumber,Si quis hoc cesserit ne liceat,"II, pp.594-598",番号のみ変更 .29 → .28
+Dig.43.20.1.30,Dig.43.20.1.29,renumber,Deinde ait praetor Uti priore aestate,"II, pp.594-598",番号のみ変更 .30 → .29
+Dig.43.20.1.31,Dig.43.20.1.30,renumber,Hoc interdictum de aqua aestiua proponitur,"II, pp.594-598",番号のみ変更 .31 → .30
+Dig.43.20.1.32,Dig.43.20.1.31,renumber,Quia autem diximus aestiuam aquam aliquo,"II, pp.594-598",番号のみ変更 .32 → .31
+Dig.43.20.1.33,Dig.43.20.1.32,renumber,Aestatem incipere sic peritiores tradiderunt ab,"II, pp.594-598",番号のみ変更 .33 → .32
+Dig.43.20.1.34,Dig.43.20.1.33,renumber,Priorem aestatem ex comparatione duarum aestatium,"II, pp.594-598",番号のみ変更 .34 → .33
+Dig.43.20.1.35,Dig.43.20.1.34,renumber,Propter hoc si aestate interdicatur nonnumquam,"II, pp.594-598",番号のみ変更 .35 → .34
+Dig.43.20.1.36,Dig.43.20.1.35,renumber,Si quis hieme tantum aquam solitus,"II, pp.594-598",番号のみ変更 .36 → .35
+Dig.43.20.1.37,Dig.43.20.1.36,renumber,Qui hac aestate duxit non superiore,"II, pp.594-598",番号のみ変更 .37 → .36
+Dig.43.20.1.38,Dig.43.20.1.37,renumber,Ait praetor inter heredes et emptores,"II, pp.594-598",番号のみ変更 .38 → .37
+Dig.43.20.1.39,Dig.43.20.1.38,renumber,Ait praetor Quo ex castello illi,"II, pp.594-598",番号のみ変更 .39 → .38
+Dig.43.20.1.40,Dig.43.20.1.39,renumber,Hoc interdictum necessario propositum est namque,"II, pp.594-598",番号のみ変更 .40 → .39
+Dig.43.20.1.41,Dig.43.20.1.40,split,Si ex castello permissum est dandum,"II, pp.594-598",当方の section を分割（分割後の一方）
+Dig.43.20.1.41,Dig.43.20.1.41,split,Permittitur autem aquam ex castello uel,"II, pp.594-598",当方の section を分割（分割後の一方）
+Dig.43.20.1.42,Dig.43.20.1.42,unchanged,,"II, pp.594-598",
+Dig.43.20.1.43,Dig.43.20.1.43,unchanged,,"II, pp.594-598",
+Dig.43.20.1.44,Dig.43.20.1.44,unchanged,,"II, pp.594-598",
+Dig.43.21.1.pr,Dig.43.21.1.pr,unchanged,,"II, p.599",
+Dig.43.21.1.1,Dig.43.21.1.1,unchanged,,"II, p.599",
+Dig.43.21.1.2,Dig.43.21.1.2,unchanged,,"II, p.599",
+Dig.43.21.1.3,Dig.43.21.1.3,unchanged,,"II, p.599",
+Dig.43.21.1.4,Dig.43.21.1.4,unchanged,,"II, p.599",
+Dig.43.21.1.5,Dig.43.21.1.5,unchanged,,"II, p.599",
+Dig.43.21.1.6,Dig.43.21.1.6,unchanged,,"II, p.599",
+Dig.43.21.1.7,Dig.43.21.1.7,split,Purgandi uerbum plerique quidem putant ad,"II, p.599",当方の section を分割（分割後の一方）
+Dig.43.21.1.7,Dig.43.21.1.8,split,Aquae inquit ducendae causa merito hoc,"II, p.599",当方の section を分割（分割後の一方）
+Dig.43.21.1.8,Dig.43.21.1.9,renumber,Hoc interdictum competit etiam ei qui,"II, p.599",番号のみ変更 .8 → .9
+Dig.43.21.1.9,Dig.43.21.1.10,renumber,Si quis terrenum riuum signinum id,"II, p.599",番号のみ変更 .9 → .10
+Dig.43.21.1.10,Dig.43.21.1.11,renumber,Proinde et si per alium locum,"II, p.599",番号のみ変更 .10 → .11
+Dig.43.26.8.pr;Dig.43.26.8.1,Dig.43.26.8.pr,merge,Quaesitum est si Titius me rogauerit,"II, p.611",当方の 2 section を統合
+Dig.43.26.8.2,Dig.43.26.8.1,renumber,Quod a Titio precario quis rogauit,"II, p.611",番号のみ変更 .2 → .1
+Dig.43.26.8.3,Dig.43.26.8.2,renumber,Illud tamen uideamus quale sit si,"II, p.611",番号のみ変更 .3 → .2
+Dig.43.26.8.4,Dig.43.26.8.3,renumber,Eum quoque precario teneri uoluit praetor,"II, p.611",番号のみ変更 .4 → .3
+Dig.43.26.8.5,Dig.43.26.8.4,renumber,Ex hoc interdicto restitui debet in,"II, p.611",番号のみ変更 .5 → .4
+Dig.43.26.8.6,Dig.43.26.8.5,renumber,Si seruitute usus non fuit is,"II, p.611",番号のみ変更 .6 → .5
+Dig.43.26.8.7,Dig.43.26.8.6,renumber,Et generaliter erit dicendum in restitutionem,"II, p.611",番号のみ変更 .7 → .6
+Dig.43.26.8.8,Dig.43.26.8.7,renumber,Interdictum hoc et post annum competere,"II, p.611",番号のみ変更 .8 → .7
+Dig.43.26.8.9,Dig.43.26.8.8,renumber,Hoc interdicto heres eius qui precario,"II, p.611",番号のみ変更 .9 → .8
+Dig.45.1.5.pr,Dig.45.1.5.pr,unchanged,,"II, p.651",
+Dig.45.1.5.1,Dig.45.1.5.1,unchanged,,"II, p.651",
+Dig.45.1.5.2,Dig.45.1.5.2,unchanged,,"II, p.651",
+Dig.45.1.5.3,Dig.45.1.5.3,unchanged,,"II, p.651",
+Dig.45.1.5.4,Dig.45.1.5.3a,renumber,Si sortem promiseris et si ea,"II, p.651",番号のみ変更 .4 → .3a
+Dig.45.1.5.5,Dig.45.1.5.4,renumber,Idemque est de poena ex compromisso,"II, p.651",番号のみ変更 .5 → .4
+Dig.45.1.56.pr,Dig.45.1.56.pr,split,Eum qui ita stipulatur mihi et,"II, pp.658-659",当方の section を分割（分割後の一方）
+Dig.45.1.56.pr,Dig.45.1.56.1,split,Te et Titium heredem tuum decem,"II, pp.658-659",当方の section を分割（分割後の一方）
+Dig.45.1.56.1,Dig.45.1.56.2,renumber,Qui sibi aut filio suo dari,"II, pp.658-659",番号のみ変更 .1 → .2
+Dig.45.1.56.2,Dig.45.1.56.3,renumber,Quod si soli filio suo qui,"II, pp.658-659",番号のみ変更 .2 → .3
+Dig.45.1.56.3;Dig.45.1.56.4,Dig.45.1.56.4,merge,Qui ita stipulatur decem quoad uiuam,"II, pp.658-659",当方の 2 section を統合
+Dig.45.1.56.5,Dig.45.1.56.5,unchanged,,"II, pp.658-659",
+Dig.45.1.56.6,Dig.45.1.56.6,unchanged,,"II, pp.658-659",
+Dig.45.1.56.7,Dig.45.1.56.7,unchanged,,"II, pp.658-659",
+Dig.45.1.56.8,Dig.45.1.56.8,unchanged,,"II, pp.658-659",
+Dig.45.1.72.pr;Dig.45.1.72.1,Dig.45.1.72.pr,merge,Stipulationes non diuiduntur earum rerum quae,"II, p.660",当方の 2 section を統合
+Dig.45.1.72.2,Dig.45.1.72.1,renumber,Si quis ita stipulatus sit si,"II, p.660",番号のみ変更 .2 → .1
+Dig.45.1.72.3,Dig.45.1.72.2,renumber,Plane si insulam fulciri quis stipulatus,"II, p.660",番号のみ変更 .3 → .2
+Dig.49.14.1.pr,Dig.49.14.1.pr,unchanged,,"II, pp.875-876",
+Dig.49.14.1.1;Dig.49.14.1.2,Dig.49.14.1.1,merge,An bona quae soluendo non sint,"II, pp.875-876",当方の 2 section を統合
+Dig.49.14.1.3,Dig.49.14.1.2,split,Diuus Pius Coelio Amaranto ita rescripsit,"II, pp.875-876",当方の section を分割（分割後の一方）
+Dig.49.14.1.3,Dig.49.14.1.3,split,Praescriptio autem uiginti annorum quae etiam,"II, pp.875-876",当方の section を分割（分割後の一方）
+Dig.49.14.1.4,Dig.49.14.1.4,unchanged,,"II, pp.875-876",
+Dig.49.14.1.5,Dig.49.14.1.5,unchanged,,"II, pp.875-876",
